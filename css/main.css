@@ -9,3 +9,11 @@
 #a, #b, #c, #d, #e, #f, #g{
   float: left;
 }
+
+.black {
+  background-color: black;
+}
+
+.red {
+  background-color: red;
+}
